@@ -1,0 +1,10 @@
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\bin\Debug\RSA1.exe.config
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\bin\Debug\RSA1.exe
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\bin\Debug\RSA1.pdb
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.csprojAssemblyReference.cache
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.Form1.resources
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.Properties.Resources.resources
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.csproj.GenerateResource.cache
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.csproj.CoreCompileInputs.cache
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.exe
+C:\Users\Eimucio\Desktop\Studijos\2 metai antras pusmetis\Informacijos saugumas\RSA1\RSA1\obj\Debug\RSA1.pdb
