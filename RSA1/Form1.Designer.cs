@@ -49,7 +49,7 @@ namespace RSA1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(189, 278);
+            this.button1.Location = new System.Drawing.Point(147, 326);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(92, 29);
             this.button1.TabIndex = 0;
@@ -60,7 +60,7 @@ namespace RSA1
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(152, 80);
+            this.label1.Location = new System.Drawing.Point(82, 80);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 17);
             this.label1.TabIndex = 1;
@@ -68,22 +68,22 @@ namespace RSA1
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(155, 100);
+            this.textBox1.Location = new System.Drawing.Point(85, 100);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(176, 22);
+            this.textBox1.Size = new System.Drawing.Size(246, 22);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(155, 157);
+            this.textBox2.Location = new System.Drawing.Point(85, 157);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(176, 22);
+            this.textBox2.Size = new System.Drawing.Size(246, 22);
             this.textBox2.TabIndex = 4;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(152, 137);
+            this.label2.Location = new System.Drawing.Point(82, 137);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(17, 17);
             this.label2.TabIndex = 3;
@@ -91,15 +91,15 @@ namespace RSA1
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(155, 218);
+            this.textBox3.Location = new System.Drawing.Point(85, 218);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(176, 22);
+            this.textBox3.Size = new System.Drawing.Size(246, 22);
             this.textBox3.TabIndex = 6;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(152, 198);
+            this.label3.Location = new System.Drawing.Point(82, 198);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(19, 17);
             this.label3.TabIndex = 5;
@@ -109,7 +109,7 @@ namespace RSA1
             // 
             this.textBox4.Location = new System.Drawing.Point(430, 100);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(176, 22);
+            this.textBox4.Size = new System.Drawing.Size(308, 22);
             this.textBox4.TabIndex = 8;
             // 
             // label4
@@ -125,7 +125,7 @@ namespace RSA1
             // 
             this.textBox5.Location = new System.Drawing.Point(430, 157);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(176, 22);
+            this.textBox5.Size = new System.Drawing.Size(308, 22);
             this.textBox5.TabIndex = 10;
             // 
             // label5
@@ -141,7 +141,7 @@ namespace RSA1
             // 
             this.textBox6.Location = new System.Drawing.Point(430, 218);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(176, 22);
+            this.textBox6.Size = new System.Drawing.Size(308, 22);
             this.textBox6.TabIndex = 12;
             // 
             // label6
@@ -155,7 +155,7 @@ namespace RSA1
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(467, 327);
+            this.button2.Location = new System.Drawing.Point(538, 326);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(101, 29);
             this.button2.TabIndex = 13;
@@ -168,7 +168,7 @@ namespace RSA1
             this.textBox7.Location = new System.Drawing.Point(430, 278);
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(176, 22);
+            this.textBox7.Size = new System.Drawing.Size(308, 22);
             this.textBox7.TabIndex = 15;
             // 
             // label7

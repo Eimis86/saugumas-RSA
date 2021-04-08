@@ -39,8 +39,9 @@ namespace RSA1
                     //byte[] Eletter = ascii.GetBytes(letter);
                 }
                 ascii.ForEach(Console.WriteLine);
-
+                textBox7.Clear();
                 textBox4.Text = Cypher.Enxryption(p,q,ascii);
+
             }
             catch (Exception ex)
             {
